@@ -1,66 +1,100 @@
-# 👋 Привет! Добро пожаловать в мой уголок GitHub
-
-![Header](https://via.placeholder.com/1200x400?text=%D0%A1%D0%B5%D0%B9%D1%87%D0%B0%D1%81+%D0%B2%D1%8B%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B%D0%B2%D0%B0%D1%8E+%D1%81%D0%B2%D0%BE%D0%B9+%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9+%D0%BA%D0%BE%D0%B4!)
-
-## 🧑‍💻 Обо мне:
-
-Привет, меня зовут [Ваше имя]! Я разработчик, увлеченный созданием красивого и функционального кода. 🤓 Вот несколько фактов обо мне:
-
-- 🌟 Люблю программировать и создавать проекты, которые решают реальные задачи.
-- 🖥️ Мой основной стек технологий: Python, Flask/Quart, JavaScript, CSS.
-- 🚀 Интересуюсь автоматизацией, парсингом данных и созданием Telegram-ботов.
-- 🎯 Постоянно учусь и исследую новые технологии.
+# Hello hello motherfuckers I'm KLITXXXGOD!
+![Header](https://i.ibb.co/pJwpFyB/Screenshot-2.png)
 
 ---
 
-## 💼 Мои проекты:
+## 🖤 Обо мне
 
-### 1. [Название вашего основного проекта](#)
-- 🚀 Описание: Этот проект делает вашу жизнь проще и эффективнее.
-- 💡 Основные технологии: Python, Flask, Telethon
-- 🔗 [Посмотреть проект](#)
-
-### 2. [Название второго проекта](#)
-- 🎨 Описание: Это стильное приложение, помогающее разработчикам вдохновляться.
-- 💡 Основные технологии: JavaScript, React, CSS
-- 🔗 [Посмотреть проект](#)
+- 💨 Программист, мастер Python и веб-технологий, всегда на волне.
+- 💨 Создаю проекты, которые не просто выделяются, а оставляют след.
+- 💨 Вечно в поиске нового, всегда прокачиваю скиллы и раскрываю новые горизонты.
 
 ---
 
-## 🔧 Мой стек технологий:
+## ⚙️ Используемые технологии
 
-### Языки и инструменты:
-- **Языки:** Python, JavaScript, HTML/CSS
-- **Фреймворки:** Flask, Quart, Telethon
-- **Инструменты:** Git, VS Code, Docker
-- **Базы данных:** SQLite, PostgreSQL
+<details>
+  <summary><strong>Frontend</strong></summary>
+
+  ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+</details>
+
+<details>
+  <summary><strong>Database</strong></summary>
+
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+</details>
+
+<details>
+  <summary><strong>DevOps</strong></summary>
+
+  ![Apache](https://img.shields.io/badge/apache-%23000000.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23000000.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=for-the-badge&logo=heroku&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+
+</details>
+
+<details>
+  <summary><strong>Programming Languages</strong></summary>
+
+  ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/csharp-%23000000.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![C++](https://img.shields.io/badge/cplusplus-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![Shell](https://img.shields.io/badge/Shell-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=white)  
+
+</details>
+
+<details>
+  <summary><strong>Telegram Development</strong></summary>
+
+  ![Telethon](https://img.shields.io/badge/Telethon-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white)  ![Ayogram](https://img.shields.io/badge/Ayogram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white)  ![Pyogram](https://img.shields.io/badge/Pyogram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white)  
+
+</details>
+
+<details>
+  <summary><strong>Design Tools</strong></summary>
+
+
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%23000000.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23000000.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=for-the-badge&logo=canva&logoColor=white)  
+
+</details>
+
+<details>
+  <summary><strong>3D Modeling</strong></summary>
+
+  ![3ds Max](https://img.shields.io/badge/3dsMax-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)  ![Blender](https://img.shields.io/badge/Blender-%23000000.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+</details>
 
 ---
 
-## 🌟 Статистика:
+## ♥️ Мои проекты
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВашUsername&show_icons=true&theme=radical)
+### 💨 Scripts
+- **[OperaGX Parser Nitro](https://github.com/klintxxxgod/OperaGXParserNitro)**
+- **[Discord Loot Boxes](https://github.com/klintxxxgod/DiscordLootBoxes)**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВашUsername&layout=compact&theme=radical)
-
----
-
-## 📫 Как связаться со мной:
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💬 Telegram: [@ВашТелеграм](https://t.me/ВашТелеграм)
-- 🌐 LinkedIn: [Ваш профиль](#)
+### 💨 Application
+- **[Demorgan GTA5RP](https://github.com/klintxxxgod/DemorganGTA5RP)**
 
 ---
 
-## 🌈 Интересные факты:
+## 🖤 Статистика
 
-- 🔍 Я постоянно исследую, как можно улучшить свои проекты.
-- 🕹️ В свободное время играю в игры и занимаюсь спортом.
-- ✍️ Обожаю писать технические статьи и делиться знаниями с сообществом.
+![KlintxxxGod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=klintxxxgod&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00c4ff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klintxxxgod&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00c4ff)
 
 ---
 
-> ✨ "Каждый день — это новая возможность стать лучше!" ✨
+## ♥️ Рейтинг навыков
 
-Спасибо, что заглянули! 🙌
+| Навыки         | Уровень  |
+| -------------- | -------- |
+| Python         | 90%      |
+| Web Development| 85%      |
+| HTML/CSS       | 75%      |
+| C#             | 70%      |
+| JavaScript     | 65%      |
+| C++            | 50%      |
+
+---
+
+## 🖤 Контакты
+
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klintxxxgod)  [![Lolz](https://img.shields.io/badge/-Lolz%20Team-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAFdJREFUOI3FkjEOgkAQRc/CoFAEmf4SzkIkg1UkfsAdKNFBOkEEVnMkr1SBBSgUtqtUKV9jeBGwrvE3d+7s3TeAH5GgdYBGSCYJ1ASowm5YAz5voFrOh6oP/poM14wHdAe2Bi4OjsMUyccxPB3bs6Dn8AMhRWLZLeQKkwAAAABJRU5ErkJggg==&logoColor=white)](https://lolz.live/klintxxxgod/)  [![BHF](https://img.shields.io/badge/-BHF-black?style=for-the-badge&logo=matrix&logoColor=white)](https://bhf.pro/members/545192/)  [![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owner.klint@gmail.com)
