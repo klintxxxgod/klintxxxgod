@@ -70,6 +70,8 @@
 ### 💨 Scripts
 - **[OperaGX Parser Nitro](https://github.com/klintxxxgod/OperaGXParserNitro)**
 - **[Discord Loot Boxes](https://github.com/klintxxxgod/DiscordLootBoxes)**
+- **[Telegram bot Template](https://github.com/klintxxxgod/Telegram-bot-template)**
+- **[Link Shortener Template](https://github.com/klintxxxgod/Link-Shortener-Template)**
 
 ### 💨 Application
 - **[Demorgan GTA5RP](https://github.com/klintxxxgod/DemorganGTA5RP)**
