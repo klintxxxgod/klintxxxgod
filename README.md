@@ -81,15 +81,6 @@
 
 ---
 
-## 🖤 Статистика
-
-<a href="https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization">
-  <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=goger1245&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-</a>
-<a href="https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization">
-  <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=goger1245&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
-</a>
----
 
 ## ♥️ Рейтинг навыков
 
