@@ -67,32 +67,23 @@
 
 ## ♥️ Мои проекты
 
-### 💨 Site
-- **[Link Shortener Template](https://github.com/klintxxxgod/Link-Shortener-Template)**
-- 
-### 💨 Cmd scripts
-- **[OperaGX Parser Nitro](https://github.com/klintxxxgod/OperaGXParserNitro)**
-- **[Discord Loot Boxes](https://github.com/klintxxxgod/DiscordLootBoxes)**
-- **[Telegram bot Template](https://github.com/klintxxxgod/Telegram-bot-template)**
-- **[Telegram bot dumper](https://github.com/klintxxxgod/Telegram-Bot-Dumper)**
-  
-### 💨 Application
-- **[Demorgan GTA5RP](https://github.com/klintxxxgod/DemorganGTA5RP)**
+### 🌐 Site
+- **[Link Shortener Template](https://github.com/klintxxxgod/Link-Shortener-Template)** — веб-приложение для сокращения ссылок с хранением данных и статистикой переходов.
+- **[Short Link](https://github.com/klintxxxgod/Short-Link)** — мини-проект для работы с короткими ссылками.
 
----
+### 🤖 Telegram / Bots
+- **[TeleTool](https://github.com/klintxxxgod/TeleTool)** — инструмент для работы с Telegram-сессиями, аккаунтами и конвертацией.
+- **[Telegram Bot Template](https://github.com/klintxxxgod/Telegram-bot-template)** — шаблоны Telegram-ботов на популярных библиотеках.
+- **[Telegram Bot Dumper](https://github.com/klintxxxgod/Telegram-Bot-Dumper)** — инструмент для получения информации о Telegram-боте по токену.
+- **[Telegram Bot Converter](https://github.com/klintxxxgod/Telegram-Bot-Converter)** — бот для конвертации видео и аудио в удобные форматы Telegram.
+- **[Fake Activity on Telegram TEATRAPP](https://github.com/klintxxxgod/Fake-activity-on-Telegram-TEATRAPP)** — инструмент для имитации активности в Telegram.
 
+### 💨 Cmd scripts / Utils
+- **[OperaGX Parser Nitro](https://github.com/klintxxxgod/OperaGXParserNitro)** — скрипт-парсер для OperaGX.
+- **[Discord Loot Boxes](https://github.com/klintxxxgod/DiscordLootBoxes)** — утилита для Discord Loot Boxes.
 
-## ♥️ Рейтинг навыков
-
-| Навыки         | Уровень  |
-| -------------- | -------- |
-| Python         | 90%      |
-| Web Development| 85%      |
-| HTML/CSS       | 75%      |
-| C#             | 70%      |
-| JavaScript     | 65%      |
-| C++            | 50%      |
-
+### 🖥️ Application
+- **[Demorgan GTA5RP](https://github.com/klintxxxgod/DemorganGTA5RP)** — приложение/бот для GTA5RP.
 ---
 
 ## 🖤 Контакты
